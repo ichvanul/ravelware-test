@@ -1,7 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/ichvanul/payment-method/blob/master/src/assets/parkingcar.jpg" width="200">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/parkingcar.jpg" width="200">
   <br>
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/vue.jpg" width="200">
   Parkir Mobil
   <br>
 </h1>
@@ -26,13 +27,19 @@ Parkir Mobil is a website-based Car Parking application, created using Vue.js, w
 
 ![Screenshot]
 <h1 align="center">
-  <img src="https://github.com/ichvanul/payment-method/blob/master/src/assets/Payment1.png">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page1.png">
 </h1>
 <h1 align="center">
-  <img src="https://github.com/ichvanul/payment-method/blob/master/src/assets/Payment2.png">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page2.png">
 </h1>
 <h1 align="center">
-  <img src="https://github.com/ichvanul/payment-method/blob/master/src/assets/Payment3.png">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page3.png">
+</h1>
+<h1 align="center">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page4.png">
+</h1>
+<h1 align="center">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page5.png">
 </h1>
 
 ## How To Install
