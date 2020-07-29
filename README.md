@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/parkingcar.jpg" width="200">
-  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/vue.jpg" width="200">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/vue.jpg" width="250">
   <br>
   Parkir Mobil
   <br>
@@ -25,7 +25,6 @@ Parkir Mobil is a website-based Car Parking application, created using Vue.js, w
 
 ## Demo
 
-![Screenshot]
 <h1 align="center">
   <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page1.png">
 </h1>
