@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
   <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/parkingcar.jpg" width="200">
-  <br>
   <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/vue.jpg" width="200">
+  <br>
   Parkir Mobil
   <br>
 </h1>
