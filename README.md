@@ -40,6 +40,9 @@ Parkir Mobil is a website-based Car Parking application, created using Vue.js, w
 <h1 align="center">
   <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page5.png">
 </h1>
+<h1 align="center">
+  <img src="https://github.com/ichvanul/ravelware-test/blob/master/src/assets/img/page6.png">
+</h1>
 
 ## How To Install
 

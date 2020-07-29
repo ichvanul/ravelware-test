@@ -177,7 +177,7 @@ export default {
     }
   }
 }
-@media only screen and(max-width: 600px) {
+@media only screen and(max-width: 1024px) {
   .home {
     .main-menu {
       width: 100%;
@@ -185,7 +185,11 @@ export default {
         .left {
           margin-right: 10px;
           .hide-menu {
-            display: none;
+            display: flex;
+            p {
+              margin-left: 220px;
+              margin-top: -2px;
+            }
           }
           .sauce {
             display: block;
